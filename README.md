@@ -30,6 +30,79 @@
 ## Metrics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 26.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 122 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1486 commits        ██████████████░░░░░░░░░░░   54.41 % 
+🌆 Daytime                1229 commits        ███████████░░░░░░░░░░░░░░   45.00 % 
+🌃 Evening                16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   870 commits         ████████░░░░░░░░░░░░░░░░░   31.86 % 
+Tuesday                  218 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Wednesday                64 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Thursday                 1364 commits        ████████████░░░░░░░░░░░░░   49.95 % 
+Friday                   181 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Saturday                 6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Sunday                   28 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in PHP** 
+
+```text
+PHP                      8 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
+Vue                      7 repos             ████████░░░░░░░░░░░░░░░░░   31.82 % 
+TypeScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/JohnnyEvo/JohnnyEvo/main/assets/bar_graph.png)
+
+
+ Last Updated on 02/02/2024 14:28:24 UTC
 <!--END_SECTION:waka-->
 
 ## Medium
