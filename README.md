@@ -27,6 +27,11 @@
 
 ![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyEvo&show_icons=true&theme=transparent)
 
+## Metrics
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Medium
 
 [![Medium](https://github-readme-medium.vercel.app/?username=johnny.charcosset&limit=3)](https://medium.com/@@johnny.charcosset)
