@@ -1,15 +1,21 @@
 ### Hi there 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/absatyaprakash/](https://www.linkedin.com/in/jcharcosset/))
 
-👋 Salut ! Je suis Johnny Charcosset, un développeur web basé à Poissy.
+👋 Hello! I'm Johnny Charcosset, a web developer based in Poissy.
 
-🌐 Spécialisé dans les technologies :
+🌐 Specialized in technologies:
 
 * Vue.js
 * Laravel
 * FilamentPHP
 
-🚀 Passionné par l'accessibilité et l'assurance qualité, je m'efforce de créer des expériences utilisateur pour tous.
+🚀 Driven by a passion for accessibility and quality assurance, I strive to create user experiences for everyone.
+
+## Skills
+
+- PHP, Javascript
+- Vue, Laravel, Astro
+- Others !
 
 ## Github
 
