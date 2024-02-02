@@ -11,10 +11,14 @@
 
 🚀 Passionné par l'accessibilité et l'assurance qualité, je m'efforce de créer des expériences utilisateur pour tous.
 
+## Github
+
 ![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyEvo&show_icons=true&theme=transparent)
+
+## Medium
 
 [![Medium](https://github-readme-medium.vercel.app/?username=johnny.charcosset&limit=3)](https://medium.com/@@johnny.charcosset)
 
-## Contacts
+## Contact
 
-- [johnnyevo]([https://marton.lederer.hu](https://johnnyevo.github.io/)https://johnnyevo.github.io/)
+- [johnnyevo](https://johnnyevo.github.io/)
