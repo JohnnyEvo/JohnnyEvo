@@ -14,9 +14,10 @@
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Astro](https://img.shields.io/badge/Astro-0B3E59?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
-[![LiveWire](https://img.shields.io/badge/LiveWire-FF3E00?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel-livewire.com/)
+[![LiveWire](https://img.shields.io/badge/LiveWire-FF3E00?style=for-the-badge&logo=livewire&logoColor=white)](https://laravel-livewire.com/)
 [![Filament](https://img.shields.io/badge/Filament-253E46?style=for-the-badge&logo=https://filamentphp.com/favicon/favicon-32x32.png?v=w1dBNxT7Wg&logoColor=white)](https://filamentadmin.com/)
 [![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)](https://alpinejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 ## Github
 
