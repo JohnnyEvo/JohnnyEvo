@@ -13,8 +13,9 @@
 
 ## Skills
 
-- PHP, Javascript
-- Vue, Laravel, Astro
+- PHP, Javascript, ...
+- Vue, Laravel, Astro, ...
+- LiveWire, Filament, Alpine, ...
 - Others !
 
 ## Github
