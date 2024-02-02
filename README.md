@@ -13,6 +13,7 @@
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Astro](https://img.shields.io/badge/Astro-0B3E59?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
 [![LiveWire](https://img.shields.io/badge/LiveWire-FF3E00?style=for-the-badge&logo=livewire&logoColor=white)](https://laravel-livewire.com/)
