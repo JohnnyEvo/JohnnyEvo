@@ -71,18 +71,13 @@ Sunday                   76 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    3 hrs 12 mins       ████████████░░░░░░░░░░░░░   47.48 % 
-Blade Template           1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-Vue.js                   1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-TypeScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-PHP                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 32 mins       █████████████░░░░░░░░░░░░   52.52 % 
-Chrome                   3 hrs 12 mins       ████████████░░░░░░░░░░░░░   47.48 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 hrs 44 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Vue** 
@@ -102,7 +97,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JohnnyEvo/JohnnyEvo/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2024 18:39:45 UTC
+ Last Updated on 10/08/2024 18:38:22 UTC
 <!--END_SECTION:waka-->
 
 ## Medium
