@@ -71,15 +71,13 @@ Sunday                   100 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Vue.js                   2 hrs 19 mins       █████████████████████░░░░   85.28 % 
-JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-TypeScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 43 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 43 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Vue** 
@@ -99,7 +97,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JohnnyEvo/JohnnyEvo/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2024 18:40:23 UTC
+ Last Updated on 14/09/2024 18:39:14 UTC
 <!--END_SECTION:waka-->
 
 ## Medium
