@@ -30,13 +30,15 @@
 ## Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-966%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-968%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 31.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 585 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -87,11 +89,11 @@ Mac                      10 hrs 6 mins       ███████████�
 **I Mostly Code in Vue** 
 
 ```text
-Vue                      8 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-TypeScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-PHP                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Vue                      8 repos             ███████████░░░░░░░░░░░░░░   42.11 % 
+TypeScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+PHP                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
@@ -101,7 +103,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JohnnyEvo/JohnnyEvo/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2024 18:40:35 UTC
+ Last Updated on 13/10/2024 18:40:03 UTC
 <!--END_SECTION:waka-->
 
 ## Medium
