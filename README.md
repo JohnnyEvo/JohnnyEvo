@@ -30,13 +30,13 @@
 ## Metrics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C026%20hrs%2024%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 31.8 kB Used in GitHub's Storage 
- > 
-> 🏆 652 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,7 +101,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JohnnyEvo/JohnnyEvo/main/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2024 18:39:47 UTC
+ Last Updated on 11/11/2024 18:40:53 UTC
 <!--END_SECTION:waka-->
 
 ## Medium
