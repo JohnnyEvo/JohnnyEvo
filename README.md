@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnny-charcosset/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://johnnyevo.github.io/)
 
-👋 Hello! I'm Johnny Charcosset, a web developer based in Poissy.
+👋 Hello! I'm Johnny Charcosset, a web developer based in France, near Belgium.
 
 🌐 Specialized in web development
 
