@@ -30,15 +30,13 @@
 ## Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C405%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C405%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 42.3 kB Used in GitHub's Storage 
- > 
-> 🏆 400 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,15 +71,16 @@ Sunday                   45 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Vue.js                   10 mins             ██████████████░░░░░░░░░░░   54.12 % 
-TypeScript               9 mins              ███████████░░░░░░░░░░░░░░   45.88 % 
+Vue.js                   10 mins             ███████████████████████░░   92.48 % 
+Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🔥 Editors: 
-VS Code                  12 mins             ███████████████░░░░░░░░░░   61.74 % 
-Cursor                   7 mins              ██████████░░░░░░░░░░░░░░░   38.26 % 
+VS Code                  11 mins             ████████████████████████░   94.00 % 
+Chrome                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 
 💻 Operating System: 
-Mac                      20 mins             █████████████████████████   100.00 % 
+Mac                      11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -101,7 +100,7 @@ Svelte                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JohnnyEvo/JohnnyEvo/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2025 18:44:39 UTC
+ Last Updated on 29/05/2025 18:45:11 UTC
 <!--END_SECTION:waka-->
 
 ## Medium
