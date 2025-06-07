@@ -38,8 +38,6 @@
 
 > 📦 42.4 kB Used in GitHub's Storage 
  > 
-> 🏆 417 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -73,16 +71,13 @@ Sunday                   45 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Vue.js                   19 mins             █████████████████░░░░░░░░   66.91 % 
-TypeScript               7 mins              ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Vue** 
@@ -102,7 +97,7 @@ Svelte                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JohnnyEvo/JohnnyEvo/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2025 18:46:23 UTC
+ Last Updated on 07/06/2025 18:43:34 UTC
 <!--END_SECTION:waka-->
 
 ## Medium
