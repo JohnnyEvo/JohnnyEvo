@@ -36,9 +36,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 42.4 kB Used in GitHub's Storage 
+> 📦 42.5 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 435 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,7 +99,7 @@ Svelte                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JohnnyEvo/JohnnyEvo/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2025 18:45:50 UTC
+ Last Updated on 14/06/2025 18:44:18 UTC
 <!--END_SECTION:waka-->
 
 ## Medium
