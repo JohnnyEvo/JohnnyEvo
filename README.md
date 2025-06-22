@@ -36,7 +36,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 42.5 kB Used in GitHub's Storage 
+> 📦 42.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,7 +98,7 @@ Svelte                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JohnnyEvo/JohnnyEvo/main/assets/bar_graph.png)
 
 
- Last Updated on 21/06/2025 18:43:38 UTC
+ Last Updated on 22/06/2025 18:44:23 UTC
 <!--END_SECTION:waka-->
 
 ## Medium
