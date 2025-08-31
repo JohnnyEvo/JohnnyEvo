@@ -30,6 +30,8 @@
 ## Metrics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C432%20hrs%2019%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -97,7 +99,7 @@ Svelte                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JohnnyEvo/JohnnyEvo/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2025 18:41:27 UTC
+ Last Updated on 31/08/2025 18:41:37 UTC
 <!--END_SECTION:waka-->
 
 ## Medium
