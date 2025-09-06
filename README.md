@@ -38,8 +38,6 @@
 
 > 📦 43.5 kB Used in GitHub's Storage 
  > 
-> 🏆 641 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -99,7 +97,7 @@ Svelte                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JohnnyEvo/JohnnyEvo/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2025 18:41:55 UTC
+ Last Updated on 06/09/2025 18:40:24 UTC
 <!--END_SECTION:waka-->
 
 ## Medium
