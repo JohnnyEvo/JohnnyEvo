@@ -30,8 +30,6 @@
 ## Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C500%20hrs%2027%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -46,42 +44,6 @@
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1946 commits        █████████░░░░░░░░░░░░░░░░   35.33 % 
-🌆 Daytime                2083 commits        █████████░░░░░░░░░░░░░░░░   37.82 % 
-🌃 Evening                1476 commits        ███████░░░░░░░░░░░░░░░░░░   26.80 % 
-🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   704 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Tuesday                  814 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Wednesday                546 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Thursday                 986 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-Friday                   722 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Saturday                 520 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Sunday                   1216 commits        ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in PHP** 
 
 ```text
@@ -99,7 +61,7 @@ Svelte                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JohnnyEvo/JohnnyEvo/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 19:11:15 UTC
+ Last Updated on 15/05/2026 19:05:58 UTC
 <!--END_SECTION:waka-->
 
 ## Medium
