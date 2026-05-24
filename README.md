@@ -30,6 +30,8 @@
 ## Metrics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C500%20hrs%2027%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -47,21 +49,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                556 commits         █████████░░░░░░░░░░░░░░░░   34.66 % 
-🌆 Daytime                624 commits         ██████████░░░░░░░░░░░░░░░   38.90 % 
-🌃 Evening                421 commits         ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+🌞 Morning                556 commits         █████████░░░░░░░░░░░░░░░░   34.60 % 
+🌆 Daytime                624 commits         ██████████░░░░░░░░░░░░░░░   38.83 % 
+🌃 Evening                424 commits         ███████░░░░░░░░░░░░░░░░░░   26.38 % 
 🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Tuesday                  204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Wednesday                206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Thursday                 232 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Friday                   242 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Saturday                 170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-Sunday                   356 commits         ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+Monday                   194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Tuesday                  204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Wednesday                206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Thursday                 232 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Friday                   242 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Saturday                 173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Sunday                   356 commits         ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
 ```
 
 
@@ -97,7 +99,7 @@ Svelte                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JohnnyEvo/JohnnyEvo/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2026 18:50:59 UTC
+ Last Updated on 24/05/2026 18:53:13 UTC
 <!--END_SECTION:waka-->
 
 ## Medium
