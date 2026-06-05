@@ -1,31 +1,51 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Johnny+Charcosset;Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&random=false&width=435&lines=Johnny+Charcosset;Product+Engineering;Backend+Architect;Mobile+Specialist;A11y+Expert)](https://git.io/typing-svg)
 
-### Hi there 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnny-charcosset/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://johnnyevo.github.io/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/johnny-charcosset/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://johnnyevo.github.io/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+</p>
 
-👋 Hello! I'm Johnny Charcosset, a web developer based in France, near Belgium.
+# Product Engineering & Architecture
+### *Bridging the gap between robust systems and fluid user experiences.*
 
-🌐 Specialized in web development
+I am **Johnny Charcosset**, a Product Engineer dedicated to building industrial-grade software that scales without losing its soul. I specialize in the convergence of native-level mobile performance and architecturally sound backends.
 
-🚀 Driven by a passion for accessibility and quality assurance, I strive to create user experiences for everyone.
+---
 
-## Skills
+## 🚀 The Value I Deliver
 
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![Astro](https://img.shields.io/badge/Astro-0B3E59?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
-[![LiveWire](https://img.shields.io/badge/LiveWire-FF3E00?style=for-the-badge&logo=livewire&logoColor=white)](https://laravel-livewire.com/)
-[![Filament](https://img.shields.io/badge/Filament-253E46?style=for-the-badge&logo=https://filamentphp.com/favicon/favicon-32x32.png?v=w1dBNxT7Wg&logoColor=white)](https://filamentadmin.com/)
-[![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)](https://alpinejs.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+*   **Industrial Excellence**: Transforming complex requirements into maintainable, high-velocity systems.
+*   **Radical Inclusivity**: Engineering for accessibility as a fundamental right, not a checkbox.
+*   **Native Convergence**: Orchestrating the seamless blend of Web standards and Native hardware capabilities.
 
-## Github
+---
 
-![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyEvo&show_icons=true&theme=transparent)
+## 🛠️ Technical Ecosystem
+
+| **Mobile & Frontend** | **Backend & SaaS** | **Engineering Culture** |
+| :--- | :--- | :--- |
+| ![Ionic](https://img.shields.io/badge/Ionic_8-3880FF?style=flat-square&logo=ionic&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white) | ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white) |
+| ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white) | ![Filament](https://img.shields.io/badge/Filament-253E46?style=flat-square&logo=filament&logoColor=white) | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) |
+| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) |
+| ![Astro](https://img.shields.io/badge/Astro-0B3E59?style=flat-square&logo=astro&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![Testing](https://img.shields.io/badge/Quality-Obsessed-success?style=flat-square) |
+
+---
+
+## ⚖️ Core Principles
+
+> "Great software is the intersection of technical rigor and human empathy."
+
+*   🛡️ **Privacy by Design**: Secure-by-default systems that respect user sovereignty.
+*   ⚖️ **Operational Integrity**: No-compromise approach to industrial standards.
+*   ♿ **Accessibility First**: Opquast-certified commitment to an inclusive digital world.
+
+---
+
+## 📈 Engineering Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnnyEvo&show_icons=true&theme=transparent&hide_border=true&title_color=4285F4&icon_color=4285F4" alt="Johnny's GitHub stats" />
+</p>
 
 ## Metrics
 
