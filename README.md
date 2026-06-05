@@ -112,20 +112,5 @@ Astro                    2 repos             ████░░░░░░░�
 Svelte                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/JohnnyEvo/JohnnyEvo/main/assets/bar_graph.png)
-
-
  Last Updated on 04/06/2026 19:19:53 UTC
 <!--END_SECTION:waka-->
-
-## Medium
-
-[![Medium](https://github-readme-medium.vercel.app/?username=johnny.charcosset&limit=3)](https://medium.com/@@johnny.charcosset)
-
-## Contact
-
-- [johnnyevo](https://johnnyevo.github.io/)
